@@ -1,0 +1,23 @@
+[
+  {
+    "id": "mvjgooz23bd7",
+    "urlCode": "qDwqBc",
+    "originalUrl": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+    "shortUrl": "http://localhost:5099/qDwqBc",
+    "createdAt": "2026-10-22T11:32:25.838Z"
+  },
+  {
+    "id": "mvjgrlla7xzh",
+    "urlCode": "02UqwG",
+    "originalUrl": "https://en.wikipedia.org/wiki/URL_shortening",
+    "shortUrl": "http://localhost:5000/02UqwG",
+    "createdAt": "2026-10-22T11:34:41.422Z"
+  },
+  {
+    "id": "mvjgyl8dbq8i",
+    "urlCode": "5nMonk",
+    "originalUrl": "https://www.google.com/search?q=very+long+link&oq=very+long+link&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRiPAjIHCAIQIRiPAtIBCTQ4NTBqMGoxNagCCLACAfEFk_MbGKC-YXI&sourceid=chrome&source=chrome.rb&ie=UTF-8&mstk=AUtExfC2X4lIq9JCKWfwUOwQRRxX4uyAtE2teZZu2CwVslttAHdIlLeyg7_Fl3X-FzjB46X9UMK3eEg3MsFZso0BsUQNtwek9OorxnU5Pr_qw7jxvIPQ_3hKysPxdzcxhHHbCFE21-IkdOIWwlFvWqfMoB3z04jY01va7vnHTcMnrZB9Z0ye-wt13Vr40i_tEfN1NBRRmDyUW4SsnbnxR6d3X2JRiCsf2w&csuir=1&udm=50&aioh=3#aof=1",
+    "shortUrl": "http://localhost:5000/5nMonk",
+    "createdAt": "2026-10-22T11:40:07.549Z"
+  }
+]
